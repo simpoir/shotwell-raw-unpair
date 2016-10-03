@@ -70,7 +70,6 @@ def _query(cursor, path):
             _unpair(cursor, photo_id, backing_id)
 
 
-
 def main():
     """Run the script."""
     args = _make_parser().parse_args()
