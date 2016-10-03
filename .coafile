@@ -1,0 +1,3 @@
+[Default]
+bears = PEP8Bear,PyCommentedCodeBear,PyDocStyleBear,PyImportSortBear,PyLintBear,PyUnusedCodeBear
+files = *.py
